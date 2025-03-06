@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OverwriteMatrix
-- 👀 I’m interested in Web Development🕸️ and Travel 🌍
-- 🌱 I’m currently learning C++, Java, Javascript 
+- 👀 I’m interested in Web Development🕸️ and all things Travel 🌍
+- 🌱 I’m currently learning Java and C++
 - 😄 Pronouns: He/Him
   
 Helpful Links/Current Reasources I am using:
