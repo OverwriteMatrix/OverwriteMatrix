@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @OverwriteMatrix
-- 👀 I’m interested in Web Development🕸️ and all things Travel 🌍
+- 👋 Hi, I’m Paxton Clark (@OverwriteMatrix)
+- 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning Java and C++
 - 😄 Pronouns: He/Him
   
