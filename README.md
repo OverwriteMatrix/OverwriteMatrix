@@ -9,3 +9,7 @@ Helpful Links/Current Reasources I am using:
 - CodingwithJohn on YT: https://www.youtube.com/c/CodingwithJohn
 - https://www.w3schools.com/
 - https://www.w3schools.in/
+- Learning Markdown:
+  - https://www.markdownguide.org/getting-started/
+  - John Gruber’s Markdown documentation: https://daringfireball.net/projects/markdown/
+  - https://github.com/mundimark/awesome-markdown
