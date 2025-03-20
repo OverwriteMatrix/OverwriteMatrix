@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Paxton Clark (@OverwriteMatrix)
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning Java and C++
-- 😄 Pronouns: He/Him
   
 Helpful Links/Current Reasources I am using:
 - Harvard CS50: https://cs50.harvard.edu/x/2025/
